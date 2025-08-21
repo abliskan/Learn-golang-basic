@@ -132,4 +132,8 @@
       - [Select](#select)
       - [Range](#range)
       - [Timeout](#timeout)
+
 ## Sources
+![Bytesizego](https://www.bytesizego.com/)
+![Freecodecamp](https://www.freecodecamp.org/news/tag/golang/)
+![Boot.dev](https://www.boot.dev/courses/learn-golang)
