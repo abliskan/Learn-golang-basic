@@ -4,8 +4,8 @@
 <ol>
   <li><a href="#introduction-to-Golang">Introduction to Golang</a></li>
   <li><a href="#the-Way-Golang">The Way Golang</a></li>
-  <li><a href="#3-mastering-concurrency-in-go">Mastering Concurrency in Golang</a></li>
-  <li><a href="#4-operating-with-operators">Going Deeper with Golang</a></li>
+  <li><a href="#mastering-concurrency-in-go">Mastering Concurrency in Golang</a></li>
+  <li><a href="#going-deeper-with-golang">Going Deeper with Golang</a></li>
 
   <li><a href="#sources">Sources</a></li>
 </ol>
