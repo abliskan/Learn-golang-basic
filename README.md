@@ -2,8 +2,8 @@
 
 ## Table of Contents:
 <ol>
-  <li><a href="#-day-a">Introduction to Golang</a></li>
-  <li><a href="#-day-b">The Way Golang</a></li>
+  <li><a href="#introduction-to-Golang">Introduction to Golang</a></li>
+  <li><a href="#the-Way-Golang">The Way Golang</a></li>
   <li><a href="#3-mastering-concurrency-in-go">Mastering Concurrency in Golang</a></li>
   <li><a href="#4-operating-with-operators">Going Deeper with Golang</a></li>
 
@@ -14,7 +14,7 @@
   <h1>Curriculum Content</h1>
 </div>
 
-- [📘 Introduction to Golang](#-day-a)
+### Introduction-to-Golang
   - [Why Golang ?](#why-golang-)
   - [Environment Setup](#environment-setup)
     - [Installing Golang](#installing-golang)
@@ -72,7 +72,8 @@
       - [Limitations of OOP in Go](#limitations-of-OOP-in-Go)
     - [Nil](#nil)
     - [Type assertions](#type-assertions)
-- [📘 The Way Golang](#-day-b)
+
+### The-Way-Golang
     - [Go mod and dependency managemenet](#go-mod-and-dependency-management)
     - [Package](#Package)
       - [Package and import](#package-and-import)
